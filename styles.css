@@ -1,0 +1,23 @@
+h1.head {
+    background-color: antiquewhite;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+img.cheff {
+    height: auto;
+    width: 230px;
+}
+
+.container,
+h1 {
+    background-color: rgb(210, 255, 255);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: left;
+}
