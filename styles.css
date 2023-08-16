@@ -1,23 +1,41 @@
-h1.head {
-    background-color: antiquewhite;
-    font-size: 36px;
-    font-weight: 800;
+
+.container {
+    background-color: #EAEDF0;
 }
 
-img {
-    height: auto;
-    width: 500px;
-}
-img.cheff {
-    height: auto;
-    width: 230px;
+.navigation {
+    background-color: #B2D6FF;
+    height: 30px;
 }
 
-.container,
-h1 {
-    background-color: rgb(210, 255, 255);
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: medium;
-    text-align: left;
+.nav-item {             
+    font-size: 20px;
+    float: right;
+    height: 30px;
+    width: 6%;
+    text-align: center; 
+}
+
+.homepage {
+    float: left;
+}
+
+.page {             
+    width: 900px;
+    height: 320px;
+    margin: 0 auto;
+}
+
+.sidebar img {
+    height: 320px;
+    width: auto;
+    float: left;
+}
+
+.footer {
+    font-size: 18px;
+    background-color: #D6E9FE;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
 }
